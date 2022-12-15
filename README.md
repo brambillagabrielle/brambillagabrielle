@@ -1,7 +1,7 @@
 ## **Olá, eu sou a Gabi** 😊
 
 📚 Estudante de Ciência da Computação no IFSul <br>
-👩‍💻 Analista de Suporte Jr. na Compass.uol
+👩‍💻 Analista de Suporte Junior Trainee na Compass.uol
 
 <div>
     <a href="https://github.com/brambillagabrielle">
