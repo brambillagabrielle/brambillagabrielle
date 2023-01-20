@@ -12,7 +12,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brambillagabrielle&layout=compact&theme=tokyonight">
 </div>
 
-#### **Constantemente aprendendo e me aperfeiçoando em:**
+### **Constantemente aprendendo e me aperfeiçoando em:**
 <div style="display: inline_block">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
