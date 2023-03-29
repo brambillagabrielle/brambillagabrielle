@@ -5,7 +5,7 @@
 
 <a href="https://www.linkedin.com/in/gabrielle-brambilla/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a><br>
+</a><br><br>
 
 <div>
     <a href="https://github.com/brambillagabrielle">
