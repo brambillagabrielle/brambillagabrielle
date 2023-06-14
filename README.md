@@ -1,7 +1,7 @@
 ## **Olá, eu sou a Gabi** 😊
 
 📌 Apaixonada por livros, aprender sobre novas tecnologias e resolver problemas.<br>
-📚 Estudante de Ciência da Computação no IFSUL<br>
+📚 Estudante de Bacharelado em Ciência da Computação no IFSUL<br>
 👩‍💻 Analista de Suporte Junior Trainee na Compass.uol<br>
 
 <a href="https://www.linkedin.com/in/gabrielle-brambilla/">
