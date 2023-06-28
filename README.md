@@ -23,3 +23,7 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
 </div>
+
+### **Certificações:**
+<a href="https://www.credly.com/badges/a7964451-2400-4d81-ac1c-141c95641783/public_url"/>
+<img align="center" height="100" width="100" src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
