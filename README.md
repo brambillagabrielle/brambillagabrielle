@@ -1,4 +1,4 @@
-## **Olá, eu sou a Gabi** 😊
+## **Hi, I'm Gabi** 😊
 
 📌 Book lover with an enthusiasm for new technologies and problem solving from Brazil<br>
 🎓 Computer Science student at IFSUL<br>
