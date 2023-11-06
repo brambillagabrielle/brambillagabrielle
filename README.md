@@ -1,16 +1,16 @@
 ## **Hi, I'm Gabi** 😊
-
+<div>
 📌 Book lover from Brazil with an enthusiasm for new technologies and problem solving<br>
 🎓 Computer Science student at IFSUL<br>
-👩‍💻 Junior Support Analyst at Compass.uol<br>
+👩‍💻 Junior Support Analyst at Compass.uol
+</div>
+<br>
 
-<a href="https://www.linkedin.com/in/gabrielle-brambilla/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.instagram.com/gabrielle.brambilla/">
-    <img src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465">
-</a>
-<br><br>
+<div> 
+    <a href="https://www.linkedin.com/in/gabrielle-brambilla/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/gabrielle.brambilla/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+<br>
 
 <div>
     <a href="https://github.com/brambillagabrielle">
