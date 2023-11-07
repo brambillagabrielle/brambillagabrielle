@@ -1,7 +1,7 @@
 ## **Hi, I'm Gabi** 😊
 <div>
 📌 Book lover from Brazil with an enthusiasm for new technologies and problem solving<br>
-🎓 Computer Science student at IFSUL-BR<br>
+🎓 Computer Science student at IFSUL<br>
 👩‍💻 Junior Support Analyst at Compass.uol
 </div>
 <br>
