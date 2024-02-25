@@ -1,14 +1,15 @@
 ## **Hi, I'm Gabi** 😊
 <div>
-🎓 Computer Science student at IFSUL in Brazil<br>
+🇧🇷 - Brazilian Portuguese / English<br>
+🎓 Computer Science student at IFSUL<br>
 👩‍💻 Junior Support Analyst at Compass.uol
 </div>
 <br>
 
 <div> 
-    <img href="https://www.linkedin.com/in/gabrielle-brambilla/" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    <img href="https://www.instagram.com/gabrielle.brambilla/" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-    <img href="https://medium.com/@brambillagabrielle" src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
+    <a href="https://www.linkedin.com/in/gabrielle-brambilla/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/gabrielle.brambilla/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://brambillagabrielle.medium.com"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
 <br>
 
@@ -27,6 +28,6 @@
 
 ### **Certifications and Badges:**
 <p float="left">
-    <img href="https://www.credly.com/badges/a7964451-2400-4d81-ac1c-141c95641783/public_url" height="100" width="100" src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" target="_blank">
-    <img href="https://www.credly.com/badges/183e643f-4915-4772-88f0-e85d6d0f3e10/public_url" height="100" width="100" src="https://images.credly.com/size/220x220/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png" target="_blank">
+    <a href="https://www.credly.com/badges/a7964451-2400-4d81-ac1c-141c95641783/public_url"><img height="100" width="100" src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" target="_blank"></a>
+    <a href="https://www.credly.com/badges/183e643f-4915-4772-88f0-e85d6d0f3e10/public_url"><img height="100" width="100" src="https://images.credly.com/size/220x220/images/08a5010a-0c0a-448c-981e-c116fedd380c/image.png" target="_blank"></a>
 </p>
