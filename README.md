@@ -1,6 +1,6 @@
 ## **Hi, I'm Gabi** 😊
 <div>
-🇧🇷 - Brazilian Portuguese / English<br>
+🇧🇷 Brazilian Portuguese / English<br>
 🎓 Computer Science student at IFSUL<br>
 👩‍💻 Junior Support Analyst at Compass.uol
 </div>
