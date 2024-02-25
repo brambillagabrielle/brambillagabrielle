@@ -6,8 +6,9 @@
 <br>
 
 <div> 
-    <img href="https://www.linkedin.com/in/gabrielle-brambilla/" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    <img href="https://www.instagram.com/gabrielle.brambilla/" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img href="https://www.linkedin.com/in/gabrielle-brambilla/" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img href="https://www.instagram.com/gabrielle.brambilla/" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img href="https://medium.com/@brambillagabrielle" src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
 </div>
 <br>
 
