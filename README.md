@@ -1,9 +1,9 @@
 # Olá, eu sou a Gabi ☺️
 
 ## Sobre mim
-- 👩‍🎓 Estudante de Ciência da Computação no IFSul - Passo Fundo
-- 👩‍💻 Analista de Suporte Jr. Trainee na Compass.uol
-- 📚 Estudando para a certificação AZ-900
+- 👩‍🎓 Graduated in Computer Science at IFSul (Brazil)
+- 👩‍💻 Working as a Support Analyst at Compass.uol
+- 📚 Studying for AWS SysOps Administrator and Terraform Associate certifications (2025) 
 <div>
   <a href="https://www.linkedin.com/in/gabrielle-brambilla/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@brambillagabrielle/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white"/></a>
