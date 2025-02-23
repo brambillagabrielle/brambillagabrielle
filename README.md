@@ -1,9 +1,10 @@
-# Olá, eu sou a Gabi ☺️
+# Hi! I'm Gabi ☺️
 
-## Sobre mim
-- 👩‍🎓 Graduated in Computer Science at IFSul (Brazil)
-- 👩‍💻 Working as a Support Analyst at Compass.uol
-- 📚 Studying for AWS SysOps Administrator and Terraform Associate certifications (2025) 
+## About Me
+👩‍🎓 Graduated in Computer Science at IFSul (Brazil)\
+👩‍💻 Working as a Support Analyst at Compass.uol\
+📚 Studying for AWS SysOps Administrator and Terraform Associate certifications (2025)
+
 <div>
   <a href="https://www.linkedin.com/in/gabrielle-brambilla/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@brambillagabrielle/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white"/></a>
@@ -19,7 +20,7 @@
   </a>
 </div>
 
-## Aprendendo e aprimorando
+## Technologies
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
