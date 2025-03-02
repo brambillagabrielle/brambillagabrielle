@@ -13,10 +13,10 @@
 <br>
 <div>
   <a href="https://github.com/brambillagabrielle">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brambillagabrielle&theme=tokyonight" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brambillagabrielle&theme=material-palenight" />
   </a>
   <a href="https://github.com/brambillagabrielle">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brambillagabrielle&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brambillagabrielle&layout=compact&langs_count=8&card_width=320&theme=material-palenight" />
   </a>
 </div>
 
