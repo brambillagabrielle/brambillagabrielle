@@ -1,16 +1,17 @@
-# Hi! I'm Gabi ☺️
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D47BF7&background=FFFFFF00&vCenter=true&width=435&lines=%F0%9F%AA%BB+My+name+is+Gabrielle+%F0%9F%AA%BB;I+study+and+work+with+DevOps" alt="Typing SVG" />
+  </a>
+</p>
 
-## About Me
-👩‍🎓 Graduated in Computer Science at IFSul (Brazil)\
-👩‍💻 Working as a Support Analyst at Compass.uol\
-📚 Studying for AWS SysOps Administrator and Terraform Associate certifications (2025)
+### 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎
 
-<div>
-  <a href="https://www.linkedin.com/in/gabrielle-brambilla/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@brambillagabrielle/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium&logoColor=white"/></a>
-</div>
+👩‍🎓 𝙶𝚛𝚊𝚍𝚞𝚊𝚝𝚎𝚍 𝚒𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 𝙸𝙵𝚂𝚞𝚕 (𝙱𝚛𝚊𝚣𝚒𝚕)\
+👩‍💻 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚊𝚜 𝚊 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙰𝚗𝚊𝚕𝚢𝚜𝚝 𝚊𝚝 𝙲𝚘𝚖𝚙𝚊𝚜𝚜.𝚞𝚘𝚕\
+📚 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚏𝚘𝚛 𝙰𝚆𝚂 𝚂𝚢𝚜𝙾𝚙𝚜 𝙰𝚍𝚖𝚒𝚗𝚒𝚜𝚝𝚛𝚊𝚝𝚘𝚛 𝚊𝚗𝚍 𝚃𝚎𝚛𝚛𝚊𝚏𝚘𝚛𝚖 𝙰𝚜𝚜𝚘𝚌𝚒𝚊𝚝𝚎 𝚌𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 (𝟸𝟶𝟸𝟻)
 
-<br>
+<br/>
+
 <div>
   <a href="https://github.com/brambillagabrielle">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brambillagabrielle&theme=material-palenight" />
@@ -20,12 +21,5 @@
   </a>
 </div>
 
-## Technologies
-<div>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>
-</div>
+### 𝚖𝚢 𝚜𝚔𝚒𝚕𝚕𝚜
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,bash,terraform,docker,kubernetes,jenkins,git,postman,postgres&theme=dark)]([https://skillicons.dev](https://github.com/brambillagabrielle/))
