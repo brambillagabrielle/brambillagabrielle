@@ -6,8 +6,8 @@
 
 ### 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎
 
-██████████ 100% | 𝙶𝚛𝚊𝚍𝚞𝚊𝚝𝚎𝚍 𝚒𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚝 𝙸𝙵𝚂𝚞𝚕 (𝙱𝚛𝚊𝚣𝚒𝚕) \
-█▒▒▒▒▒▒▒▒▒ 10%  | Postgraduate in Cloud Computing Engineering at PUCPR (Brazil) \
+██████████ 100% | Graduated in Computer Science at IFSul (Brazil) \
+█▒▒▒▒▒▒▒▒▒ 010% | Postgraduate in Cloud Computing Engineering at PUCPR (Brazil)
 
 <br/>
 
