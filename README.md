@@ -11,6 +11,9 @@
 █▒▒▒▒▒▒▒▒▒ 10%  | Postgraduate in Cloud Computing Engineering at PUCPR (Brazil)
 </pre>
   
+### 𝚖𝚢 𝚜𝚔𝚒𝚕𝚕𝚜
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,bash,terraform,docker,kubernetes,jenkins,git,postman,postgres&theme=dark)]([https://skillicons.dev](https://github.com/brambillagabrielle/))
+
 <br/>
 
 <div>
@@ -21,6 +24,3 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brambillagabrielle&layout=compact&langs_count=8&card_width=320&theme=material-palenight" />
   </a>
 </div>
-
-### 𝚖𝚢 𝚜𝚔𝚒𝚕𝚕𝚜
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,bash,terraform,docker,kubernetes,jenkins,git,postman,postgres&theme=dark)]([https://skillicons.dev](https://github.com/brambillagabrielle/))
