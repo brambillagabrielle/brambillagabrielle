@@ -8,7 +8,7 @@
 
 <pre>
 ██████████ 100% | Graduated in Computer Science at IFSul (Brazil)
-█▒▒▒▒▒▒▒▒▒ 10%  | Postgraduate in Cloud Computing Engineering at PUCPR (Brazil)
+█▒▒▒▒▒▒▒▒▒ 10%  | Postgraduating in Cloud Computing Engineering at PUCPR (Brazil)
 </pre>
   
 ### 𝚖𝚢 𝚜𝚔𝚒𝚕𝚕𝚜
