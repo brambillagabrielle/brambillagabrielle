@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D47BF7&background=FFFFFF00&vCenter=true&width=435&lines=%F0%9F%AA%BB+My+name+is+Gabrielle+%F0%9F%AA%BB;I+study+and+work+with+DevOps" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B99DF7&center=true&vCenter=true&width=435&lines=I'm+Gabi;I+work+and+study+about+DevOps%2FSRE" alt="Typing SVG" /></a>
 </p>
 
 ### 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎
