@@ -1,20 +1,20 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B99DF7&center=true&vCenter=true&width=435&lines=I'm+Gabi;I+work+and+study+about+DevOps%2FSRE" alt="Typing SVG" /></a>
-</p>
+<img align="right" src="https://media.tenor.com/g8ytIMyJrKEAAAAM/idk.gif" width="200">
 
-### 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎
+- 🇧🇷 Brazilian (Portuguese/English)
+- 👩‍💻 SRE Consultant at Peloton Consulting Group
+- 👩‍🎓 Graduated in Computer Scientist at IFSul
+- 📚 Postgraduating in Cloud Computing Services and Systems Engineering at PUCPR
 
-<pre>
-██████████ 100% | Graduated in Computer Science at IFSul (Brazil)
-█▒▒▒▒▒▒▒▒▒ 10%  | Postgraduating in Cloud Computing Engineering at PUCPR (Brazil)
-</pre>
-  
-### 𝚖𝚢 𝚜𝚔𝚒𝚕𝚕𝚜
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,bash,terraform,docker,kubernetes,jenkins,git,postman,postgres&theme=dark)]([https://skillicons.dev](https://github.com/brambillagabrielle/))
+</br>
 
-<br/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabrielle-brambilla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@brambillagabrielle"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</div>
 
-<div>
+</br>
+
+<div align="center">
   <a href="https://github.com/brambillagabrielle">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brambillagabrielle&theme=material-palenight" />
   </a>
@@ -23,8 +23,20 @@
   </a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brambillagabrielle/brambillagabrielle/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brambillagabrielle/brambillagabrielle/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brambillagabrielle/brambillagabrielle/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brambillagabrielle/brambillagabrielle/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brambillagabrielle/brambillagabrielle/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brambillagabrielle/brambillagabrielle/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+</br>
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=aws,oracle,azure,linux,bash,terraform,datadog,docker,kubernetes,jenkins,postman,postgres"
+    />
+  </a>
+</p>
