@@ -14,6 +14,14 @@
 
 </br>
 
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=aws,oracle,azure,linux,bash,terraform,datadog,docker,kubernetes,jenkins,postman,postgres"
+    />
+  </a>
+</p>
+
 <div align="center">
   <a href="https://github.com/brambillagabrielle">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brambillagabrielle&theme=material-palenight" />
@@ -30,13 +38,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brambillagabrielle/brambillagabrielle/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-</br>
-
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=aws,oracle,azure,linux,bash,terraform,datadog,docker,kubernetes,jenkins,postman,postgres"
-    />
-  </a>
-</p>
