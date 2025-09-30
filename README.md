@@ -15,7 +15,7 @@
 </br>
 
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
+  <a href="https://github.com/brambillagabrielle">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=aws,oracle,azure,linux,bash,terraform,datadog,docker,kubernetes,jenkins,postman,postgres"
     />
