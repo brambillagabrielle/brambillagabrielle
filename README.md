@@ -1,8 +1,8 @@
-<img align="right" src="https://media.tenor.com/g8ytIMyJrKEAAAAM/idk.gif" width="200">
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/653278a6b5d7a4eb01ea2aec?variant=dark" alt="roadmap.sh" align="right"/></a>
 
-- 🇧🇷 Brazilian (Portuguese/English)
+- 💬 Brazilian (Portuguese/English)
 - 👩‍💻 SRE Consultant at Peloton Consulting Group
-- 👩‍🎓 Graduated in Computer Scientist at IFSul
+- 👩‍🎓 Graduated in Computer Science at IFSul
 - 📚 Postgraduating in Cloud Computing Services and Systems Engineering at PUCPR
 
 </br>
