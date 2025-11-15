@@ -1,9 +1,9 @@
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/653278a6b5d7a4eb01ea2aec?variant=dark" alt="roadmap.sh" align="right"/></a>
+<a href="https://roadmap.sh/u/brambillagabrielle"><img src="https://roadmap.sh/card/wide/653278a6b5d7a4eb01ea2aec?variant=dark" alt="roadmap.sh" align="right"/></a>
 
 - 💬 Brazilian Portuguese/English
 - 👩‍💻 Site Reliability Engineer (SRE) and DevOps
 - 👩‍🎓 Computer Scientist specializing in Cloud Computing
-- 📚 Studying for AWS CloudOps Engineer
+- 📚 Studying for AWS CloudOps Engineer Exam
 
 </br>
 
