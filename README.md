@@ -38,5 +38,5 @@
 ## 💻 Projects
 
 ### DevOps Roadmap
-- [Server Stats](https://github.com/brambillagabrielle/devops-server-stats-project)
+- [Server Performance Stats](https://github.com/brambillagabrielle/devops-server-stats-project)
 - [Log Archive](https://github.com/brambillagabrielle/devops-log-archive-project)
