@@ -7,14 +7,14 @@
 - 👩‍🎓 Computer Scientist specializing in Cloud Computing
 - 📚 Studying for the AWS CloudOps Engineer Associate certification
 
-</br>
+### Find me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabrielle-brambilla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@brambillagabrielle"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </div>
 
-</br></br>
+</br>
 
 <div align="center">
   <a href="https://github.com/brambillagabrielle">
