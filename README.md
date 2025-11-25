@@ -1,9 +1,11 @@
-<a href="https://roadmap.sh/u/brambillagabrielle"><img src="https://roadmap.sh/card/wide/653278a6b5d7a4eb01ea2aec?variant=dark" alt="roadmap.sh" align="right"/></a>
+## Hi! I'm Gabi 😊
+
+<a href="https://github.com/brambillagabrielle"><img src="https://giffiles.alphacoders.com/297/2970.gif" width="250px" align="right"/></a>
 
 - 💬 Brazilian Portuguese/English
 - 👩‍💻 Site Reliability Engineer (SRE) and DevOps
 - 👩‍🎓 Computer Scientist specializing in Cloud Computing
-- 📚 Studying for AWS CloudOps Engineer Exam
+- 📚 Studying for the AWS CloudOps Engineer Associate certification
 
 </br>
 
@@ -14,14 +16,6 @@
 
 </br>
 
-<p align="center">
-  <a href="https://github.com/brambillagabrielle">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=aws,oracle,azure,linux,bash,terraform,datadog,docker,kubernetes,jenkins,postman,postgres"
-    />
-  </a>
-</p>
-
 <div align="center">
   <a href="https://github.com/brambillagabrielle">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brambillagabrielle&theme=material-palenight" />
@@ -30,3 +24,19 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brambillagabrielle&layout=compact&langs_count=8&card_width=320&theme=material-palenight" />
   </a>
 </div>
+
+## 💡 My Stack
+
+<p align="center">
+  <a href="https://github.com/brambillagabrielle">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=aws,oracle,azure,linux,bash,terraform,datadog,docker,kubernetes,jenkins,postman,postgres"
+    />
+  </a>
+</p>
+
+## 💻 Projects
+
+### DevOps Roadmap
+- [Server Stats](https://github.com/brambillagabrielle/devops-server-stats-project)
+- [Log Archive](https://github.com/brambillagabrielle/devops-log-archive-project)
