@@ -38,5 +38,7 @@
 ## 💻 Projects
 
 ### DevOps Roadmap
-- [Server Performance Stats](https://github.com/brambillagabrielle/devops-server-stats-project)
-- [Log Archive Tool](https://github.com/brambillagabrielle/devops-log-archive-project)
+- [Server Performance Stats](https://github.com/brambillagabrielle/server-performance-stats)
+- [Log Archive Tool](https://github.com/brambillagabrielle/log-archive-tool)
+- [Nginx Log Analyser](https://github.com/brambillagabrielle/nginx-log-analyser)
+- [GitHub Actions Project](https://github.com/brambillagabrielle/github-actions-deployment)
