@@ -14,7 +14,7 @@
   <a href="https://medium.com/@brambillagabrielle"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </div>
 
-</br>
+</br></br>
 
 <div align="center">
   <a href="https://github.com/brambillagabrielle">
