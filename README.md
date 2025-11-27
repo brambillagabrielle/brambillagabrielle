@@ -2,6 +2,8 @@
 
 <a href="https://github.com/brambillagabrielle"><img src="https://giffiles.alphacoders.com/297/2970.gif" width="250px" align="right"/></a>
 
+</br>
+
 - 💬 Brazilian Portuguese/English
 - 👩‍💻 Site Reliability Engineer (SRE) and DevOps
 - 👩‍🎓 Computer Scientist specializing in Cloud Computing
@@ -14,7 +16,7 @@
   <a href="https://medium.com/@brambillagabrielle"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </div>
 
-</br></br>
+</br>
 
 <div align="center">
   <a href="https://github.com/brambillagabrielle">
