@@ -44,3 +44,4 @@
 - [Log Archive Tool](https://github.com/brambillagabrielle/log-archive-tool)
 - [Nginx Log Analyser](https://github.com/brambillagabrielle/nginx-log-analyser)
 - [GitHub Actions Deployment](https://github.com/brambillagabrielle/github-actions-deployment)
+- [EC2 Access Methods](https://github.com/brambillagabrielle/ec2-access-methods)
