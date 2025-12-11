@@ -16,17 +16,6 @@
   <a href="https://medium.com/@brambillagabrielle"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </div>
 
-</br>
-
-<div align="center">
-  <a href="https://github.com/brambillagabrielle">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brambillagabrielle&theme=material-palenight" />
-  </a>
-  <a href="https://github.com/brambillagabrielle">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brambillagabrielle&layout=compact&langs_count=8&card_width=320&theme=material-palenight" />
-  </a>
-</div>
-
 ## 💡 My Stack
 
 <p align="center">
