@@ -7,7 +7,7 @@
 - 💬 Brazilian Portuguese/English
 - 👩‍💻 Site Reliability Engineer (SRE) and DevOps
 - 👩‍🎓 Computer Scientist specializing in Cloud Computing
-- 📚 Studying for the AWS CloudOps Engineer Associate certification
+- 📚 Studying for Hashicorp's Terraform Associate certification
 
 </br>
 
@@ -24,6 +24,12 @@
       src="https://go-skill-icons.vercel.app/api/icons?i=aws,oracle,azure,linux,bash,terraform,datadog,docker,kubernetes,jenkins,postman,postgres"
     />
   </a>
+</p>
+
+## 💡 My Certifications
+
+<p align="center">
+  <img width="150" src="https://images.credly.com/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob"/>
 </p>
 
 ## 💻 Projects
