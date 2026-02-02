@@ -26,7 +26,7 @@
   </a>
 </p>
 
-## 💡 My Certifications
+## 🏅 My Certifications
 
 <p align="center">
   <img width="150" src="https://images.credly.com/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob"/>
