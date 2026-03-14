@@ -5,9 +5,8 @@
 </br>
 
 - 💬 Brazilian Portuguese/English
-- 👩‍💻 Site Reliability Engineer (SRE) and DevOps
+- 👩‍💻 DevOps and Site Reliability Engineer (SRE)
 - 👩‍🎓 Computer Scientist specializing in Cloud Computing
-- 📚 Studying for Hashicorp's Terraform Associate certification
 
 </br>
 
