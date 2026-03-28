@@ -30,8 +30,8 @@
 
 <p align="center">
   <a>
-    <img width=150px src="https://images.credly.com/size/340x340/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob"/>
-    <img width=150px src="https://images.credly.com/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob"/>
+    <img width=100px src="https://images.credly.com/size/340x340/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob"/>
+    <img width=100px src="https://images.credly.com/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob"/>
   </a>
 </p>
 
