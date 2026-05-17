@@ -14,6 +14,14 @@
   <a href="https://brambillagabrielle.substack.com"><img src="https://img.shields.io/badge/SubStack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
 </div>
 
+</br>
+
+<p align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=Roboto&preferLogin=false">
+    <img alt="brambillagabrielle's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/brambillagabrielle?cardType=level&theme=tokyonight&fontFamily=Roboto&preferLogin=false"/>
+  </a>
+</p>
+
 ## 💡 Stack
 
 <p align="center">
