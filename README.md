@@ -14,7 +14,7 @@
   <a href="https://brambillagabrielle.substack.com"><img src="https://img.shields.io/badge/SubStack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
 </div>
 
-</br>
+</br></br>
 
 <p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=Roboto&preferLogin=false">
