@@ -2,7 +2,7 @@
 
 <a href="https://github.com/brambillagabrielle"><img src="https://giffiles.alphacoders.com/297/2970.gif" width="250px" align="right"/></a>
 
-- 💬 I speak Brazilian Portuguese and English
+- 💬 Brazilian Portuguese and English
 - 👩‍🎓 Computer Scientist (IFSul) specializing in Cloud Computing (PUCPR)
 - 👩‍💻 Currently working with Cloud and DevOps
 - 📚 Studying for ***AWS DevOps Engineer Professional*** exam
