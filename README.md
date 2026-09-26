@@ -30,6 +30,6 @@
 
 <p align="center">
   <a href="https://github.com/brambillagabrielle">
-    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=brambillagabrielle&theme=tokyonight">
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=brambillagabrielle&theme=tokyonight" width="800px">
   </a>
 </p>
