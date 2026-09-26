@@ -1,11 +1,13 @@
-## Hi! I'm Gabi 😊
+<h1 align="center">Hi, I'm Gabi 😊</h1>
 
-<a href="https://github.com/brambillagabrielle"><img src="https://giffiles.alphacoders.com/297/2970.gif" width="250px" align="right"/></a>
+<a href="https://github.com/brambillagabrielle">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/brambillagabrielle?cardType=level&theme=tokyonight&fontFamily=Roboto&preferLogin=false" width="400px" align="right"/>
+</a>
 
-- 💬 Brazilian Portuguese and English
-- 👩‍🎓 Computer Scientist (IFSul) specializing in Cloud Computing (PUCPR)
+- 💬 Brazilian Portuguese (PT-BR) and English
+- 👩‍🎓 Computer Scientist specializing in Cloud Computing
 - 👩‍💻 Currently working with Cloud and DevOps
-- 📚 Studying for ***AWS DevOps Engineer Professional*** exam
+- 📚 Studying for the ***AWS DevOps Engineer Professional*** exam
 
 </br>
 
@@ -14,29 +16,20 @@
   <a href="https://gabops"><img src="https://img.shields.io/badge/SubStack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/></a>
 </div>
 
-</br></br>
+</br>
 
-<p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&fontFamily=Roboto&preferLogin=false">
-    <img alt="brambillagabrielle's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/brambillagabrielle?cardType=level&theme=tokyonight&fontFamily=Roboto&preferLogin=false"/>
-  </a>
-</p>
-
-## 💡 Stack
+## ⚙️ My Stack
 
 <p align="center">
   <a href="https://github.com/brambillagabrielle">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=aws,linux,bash,docker,kubernetes,ecs,terraform,jenkins,zabbix,grafana"
-    />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,linux,bash,docker,kubernetes,ecs,terraform,jenkins,zabbix,grafana">
   </a>
 </p>
 
-## 🏅 Certifications
+</br>
 
 <p align="center">
-  <a>
-    <img width=120px src="https://images.credly.com/size/340x340/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob"/>
-    <img width=120px src="https://images.credly.com/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob"/>
+  <a href="https://github.com/brambillagabrielle">
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=brambillagabrielle&theme=tokyonight">
   </a>
 </p>
