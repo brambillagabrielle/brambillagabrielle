@@ -18,8 +18,6 @@
 
 </br>
 
-## ⚙️ My Stack
-
 <p align="center">
   <a href="https://github.com/brambillagabrielle">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,linux,bash,docker,kubernetes,ecs,terraform,jenkins,zabbix,grafana">
