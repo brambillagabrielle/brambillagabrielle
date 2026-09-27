@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gabi 😊</h1>
 
-<a href="https://github.com/brambillagabrielle">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/brambillagabrielle?cardType=level&theme=tokyonight&fontFamily=Roboto&preferLogin=false" width="400px" align="right"/>
+<a href="https://www.credly.com/users/gabrielle-brambilla.8e4cd09e/badges">
+  <img src="https://credly-readme-stats.onrender.com/api/grid?username=gabrielle-brambilla.8e4cd09e&theme=catppuccin_mocha&bg_color=%230d1117&hide_border=true&hide_title=true&custom_title=My+Certifications&badge_size=80&show_name=false"  width="400px" align="right"/>
 </a>
 
 - 💬 Brazilian Portuguese (PT-BR) and English
