@@ -16,7 +16,7 @@
   <a href="https://gabops.medium.com"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </div>
 
-</br></br>
+</br>
 
 <p align="center">
   <a href="https://github.com/brambillagabrielle">
